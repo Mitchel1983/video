@@ -4782,12 +4782,7 @@ https://a1xs.vip/8000011
 #EXTINF:-1  tvg-name="Star Sports Select 2 FHD" tvg-id="STAR.SPORTS.SELECT.2.HD.in" tvg-logo="https://i.imgur.com/6u2iOjA.png" group-title="A1xmedia World Sports" radio="false",Star Sports Select 2 FHD
 https://a1xs.vip/8000012
 
-#EXTINF:-1  tvg-name="Cartoon Network HD" tvg-id="cartoon-network-usa-eastern-feed" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" group-title="TheTVApp",Cartoon Network HD
-https://v13.thetvapp.to/hls/CartoonNetworkEast/tracks-v1a1/mono.m3u8?token=xiz4LJpWyg948n7QYIPdrA&expires=1755217475&user_id=YlgyaXJZMHNPZWlzWFlxSTMzbVhRTFdQN1oydEd2S2lzNEdtQ25YMA==
-#EXTINF:-1  tvg-name="Comedy Central FHD" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us" tvg-logo="https://i.imgur.com/nJT6QX9.png" group-title="TheTVApp",Comedy Central HD
-https://v4.thetvapp.to/hls/ComedyCentralEast/tracks-v1a1/mono.m3u8?token=bY0cyRTViDgObIXAqmX1IQ&expires=1755217530&user_id=YlgyaXJZMHNPZWlzWFlxSTMzbVhRTFdQN1oydEd2S2lzNEdtQ25YMA==#EXTINF:-1  tvg-name="ESPN HD" tvg-id="espn" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-icon-us.png?raw=true" group-title="TheTVApp",ESPN HD
-https://v12.thetvapp.to/hls/ESPN/tracks-v1a1/mono.m3u8?token=OlypDWklroUmEw6S9RyMiw&expires=1755217650&user_id=YlgyaXJZMHNPZWlzWFlxSTMzbVhRTFdQN1oydEd2S2lzNEdtQ25YMA==
-#EXTINF:-1  tvg-name="ESPN2 HD" tvg-id="espn2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true" group-title="TheTVApp",ESPN2 HD
+
 https://v14.thetvapp.to/hls/ESPN2/tracks-v1a1/mono.m3u8?token=5xBxYxf3OpOiLbzfYEeafw&expires=1755217660&user_id=YlgyaXJZMHNPZWlzWFlxSTMzbVhRTFdQN1oydEd2S2lzNEdtQ25YMA==
 #EXTINF:-1  tvg-name="ESPNews HD" tvg-id="espn-news" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png?raw=true" group-title="TheTVApp",ESPNews HD
 https://v17.thetvapp.to/hls/ESPNews/tracks-v1a1/mono.m3u8?token=duMHfKIc470gUTmTGo0elw&expires=1755217669&user_id=YlgyaXJZMHNPZWlzWFlxSTMzbVhRTFdQN1oydEd2S2lzNEdtQ25YMA==
